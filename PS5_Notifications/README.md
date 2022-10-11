@@ -1,6 +1,6 @@
 ## Introduction
 
-This adds a permenant notification that looks like the following:
+This adds a permanent notification that looks like the following:
 
 ![image](https://user-images.githubusercontent.com/98544186/195166547-7f06da3e-92fc-4c28-b726-9e086566e1d1.png)
 
