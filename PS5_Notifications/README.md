@@ -2,7 +2,7 @@
 
 This adds a permenant notification that looks like the following:
 
-![image](https://user-images.githubusercontent.com/98544186/195165172-79f92d6d-a506-4991-b823-f4137428dc6e.png)
+![image](https://user-images.githubusercontent.com/98544186/195166547-7f06da3e-92fc-4c28-b726-9e086566e1d1.png)
 
 
 **File:** [notification2.db](https://github.com/crump-youtube/PS5_JB_Archive/blob/main/PS5_Notifications/notification2.db)
