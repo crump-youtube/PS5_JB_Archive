@@ -1,4 +1,4 @@
-**File:** notification2.db
+**File:** [notification2.db](https://github.com/crump-youtube/PS5_JB_Archive/blob/main/PS5_Notifications/notification2.db)
 
 **Location:** /system_data/priv/mms
 
