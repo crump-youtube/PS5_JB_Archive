@@ -28,5 +28,65 @@ Checkout my [playlist](https://www.youtube.com/playlist?list=PL3Q83485j_tVTBhXkq
 
 While you are there, you might also want to [<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/c/mbcrump?sub_confirmation=1) to my channel to keep up to date with the latest and the greatest. 
 
+## Extra Info
 
+The `raw_data` that makes up a notification:
 
+```json
+{
+   "bundleName":"download",
+   "channelType":"ServiceError",
+   "isAnonymous":true,
+   "isImmediate":false,
+   "priority":1,
+   "toastOverwriteType":"No",
+   "useCaseId":"NUC259",
+   "viewData":{
+      "actions":[
+         {
+            "actionName":"⭐Activate Webkit",
+            "actionType":"DeepLink",
+            "defaultFocus":true,
+            "parameters":{
+               "actionUrl":"http://crump-youtube.github.io/"
+            }
+         },
+         {
+            "actionName":"⭐Activate URL Redirector",
+            "actionType":"DeepLink",
+            "defaultFocus":true,
+            "parameters":{
+               "actionUrl":"https://ithaqua.exploit.menu/"
+            }
+         },
+         {
+            "actionName":"⭐Activate Google",
+            "actionType":"DeepLink",
+            "defaultFocus":true,
+            "parameters":{
+               "actionUrl":"https://www.google.com/"
+            }
+         }
+     
+      ],
+      "icon":{
+         "parameters":{
+            "url":"\/user\/data\/notifi\/setting.png"
+         },
+         "type":"Url"
+      },
+      "message":{
+         "body":"★Debug menu"
+      },
+      "subMessage":{
+         "body":""
+      }
+   },
+   "viewTemplateType":"InteractiveToastTemplateB"
+}
+
+```
+
+## Credit
+
+Credit goes to [Jose Gonzalez](https://twitter.com/josegar21481364) for exploring and creating the original notification2.db file. 
