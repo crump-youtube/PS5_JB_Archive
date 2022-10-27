@@ -3,6 +3,8 @@ This repo provides a redis elf file.
 
 **File:** [redis.elf](redis.elf) 
 
+**Author:** Euro Ali
+
 ## How to setup your PS5 to receive the ELF
 
 [video](https://youtu.be/wa8dU6JHYmc)
